@@ -2,6 +2,24 @@
   "schema": 1,
   "items": [
     {
+      "id": "20261126-hmxc7",
+      "title": "大数据可视化 · 第二册：代码默写与速查笔记",
+      "course": "大数据可视化",
+      "category": "期末复习",
+      "format": "PDF",
+      "bytes": 863809,
+      "updatedAt": "2026-11-26",
+      "url": "https://github.com/LexianLix/hexu-materials/releases/download/v1/hexu-20261126-hmxc7.pdf",
+      "summary": "荧光笔标注必考 API：ECharts 6步骨架、双轴/dataset、雷达树网地图、Matplotlib/NetworkX/GeoPandas 模板。",
+      "tags": [
+        "大数据可视化",
+        "期末",
+        "代码",
+        "ECharts",
+        "Matplotlib"
+      ]
+    },
+    {
       "id": "20261126-7mgln",
       "title": "大数据可视化 · 第三册：100分全真模拟卷 & 专项练",
       "course": "大数据可视化",
