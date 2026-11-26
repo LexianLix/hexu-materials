@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "items": [
+    {
+      "id": "20261126-9384u",
+      "title": "大数据可视化 · 第四册：答案精讲与评分标准",
+      "course": "大数据可视化",
+      "category": "期末复习",
+      "format": "PDF",
+      "bytes": 874856,
+      "updatedAt": "2026-11-26",
+      "url": "https://github.com/LexianLix/hexu-materials/releases/download/v1/hexu-20261126-9384u.pdf",
+      "summary": "配套第三册模拟卷：10秒客观题核对表、逐题错因排雷、简答采分点及 ECharts/Python 完整代码答案。",
+      "tags": [
+        "大数据可视化",
+        "期末",
+        "答案",
+        "ECharts",
+        "Python"
+      ]
+    }
+  ]
+}
