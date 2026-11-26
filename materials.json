@@ -2,6 +2,23 @@
   "schema": 1,
   "items": [
     {
+      "id": "20261126-7mgln",
+      "title": "大数据可视化 · 第三册：100分全真模拟卷 & 专项练",
+      "course": "大数据可视化",
+      "category": "期末复习",
+      "format": "PDF",
+      "bytes": 874238,
+      "updatedAt": "2026-11-26",
+      "url": "https://github.com/LexianLix/hexu-materials/releases/download/v1/hexu-20261126-7mgln.pdf",
+      "summary": "极简纯白打印考卷版，含 100 分闭卷模拟卷（A–E）及双倍专项冲刺加练（X–G），适合自测或打印。",
+      "tags": [
+        "大数据可视化",
+        "期末",
+        "模拟卷",
+        "刷题"
+      ]
+    },
+    {
       "id": "20261126-9384u",
       "title": "大数据可视化 · 第四册：答案精讲与评分标准",
       "course": "大数据可视化",
