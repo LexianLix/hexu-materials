@@ -2,6 +2,24 @@
   "schema": 1,
   "items": [
     {
+      "id": "20261126-0c4e6",
+      "title": "大数据可视化 · 第一册：理论考点精讲笔记",
+      "course": "大数据可视化",
+      "category": "期末复习",
+      "format": "PDF",
+      "bytes": 1153750,
+      "updatedAt": "2026-11-26",
+      "url": "https://github.com/LexianLix/hexu-materials/releases/download/v1/hexu-20261126-0c4e6.pdf",
+      "summary": "极简荧光笔精编：万能图表选型速查、四组易混概念、简答四步模板与箱线图/谎言因子/距离高频手算。",
+      "tags": [
+        "大数据可视化",
+        "期末",
+        "理论",
+        "笔记",
+        "公式"
+      ]
+    },
+    {
       "id": "20261126-hmxc7",
       "title": "大数据可视化 · 第二册：代码默写与速查笔记",
       "course": "大数据可视化",
